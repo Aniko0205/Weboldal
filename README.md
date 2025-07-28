@@ -1,6 +1,8 @@
-weboldalunkat Vizsgamunkának készítettük. Célközönségünk a Szikszói fiatalok és régebbóta fiatalok  akik sportolni szeretnének de nem szeretnének hosszab utazást tenni hanem a lakóhelyükön szeretnének igényesen és a számukra testre szabotan sportolni, kikapcsolódni
+Weboldalunkat Vizsgamunkának készítettük. Célközönségünk a Szikszói fiatalok és régebbóta fiatalok,  akik sportolni szeretnének de nem szeretnének hosszab utazást tenni hanem a lakóhelyükön szeretnének igényesen és a számukra testre szabotan sportolni, kikapcsolódni.
 Az egyesület amiről a weboldal készült egy létező helyi egyesület. Két alosztályuk van a küzdősport( Muhay Tahy) és a trambuli fitnesz Videókkal bemutatjuk az edzéseket, az edzőket, a helyszíneket, a csapatokat és eseményekt. 
 Weboldalunkat a World Press veboldal készítővel ( CMS keretrendszer) , Elementor pro szerkestővel,Hesztia sablon szerkesztővel
-és a közösségi oldalak felhasználásával készítettük.
+és a közösségi oldalak felhasználásával készítettük.Az elementor Pro egy nagyon könnyen kezelhető konténeres szerkesztő. a képek és videók feltöltése, egyszerű mert a saját gépünkre letöltött képeket és videókat fel kel tölteni a médiatárba és onnan beilleszteni a kiválasztott helyre. A konténerek segítségével kiválaszthatjuk az űrlapot, a közösségi elemeket, az elérhetőséghez a google térképet, stb.
+A Weboldalon elérhetó funkciók: a fő oldal, a bemutatkozás, az események, elérhetőségek,nyitvatartás, jelentkezési űrlap.
 Munka megosztásunk úgy zajlott, hogy  Dzsenifer szerkezeti javaslatokat tett és ki kereste a képekhez és videókhoz tartozó Url eléréseket
-be írta és beillesztette, a szöveg ( REDME.md) álomány helyesírás  Anikó létrehozta a tartalmi követelményekneknek megfelelő oldalakat,letöltötte és feltöltötte a képeket, videókat.
+be írta és beillesztette, a szöveg ( REDME.md) álomány helyesírás ellenörzését.  Anikó létrehozta a tartalmi követelményekneknek megfelelő oldalakat,letöltötte és feltöltötte a képeket, videókat.
+A megjelenés közös elképzelések alapján készült. Mind a ketten figyelembe vettük, hogy nem egy korosztályba tartozunk.
